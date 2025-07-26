@@ -23,10 +23,6 @@
 - 🧰 **Outils & DevOps** :  
   `Git` `GitHub` `XAMPP` `Server HFSQL` `SQL Server` `MySQL` `ODBC` `Postman`
 
-- 🌐 **Autres compétences** :  
-  `Authentification avec rôles` `CRUD sécurisé` `Gestion de base de données` `Maîtrise des environnements Windows & Debian`
-
----
 
 ### 🚀 En ce moment j’apprends :
 
